@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-planet-378101",
+  "private_key_id": "eba6ff1edd53aff5e947d9136af864ffbf053d6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu6OlnrLXrWHdM\nyvYC9/QKrlKEJm2f4n1yuOdNjoOS7yWBish6oKYp6fhEYaCAxaeMjYoLJ4tHX/f0\nBkWODe8/kjp5rDly/irdHunr15EFlPdNlKhSfupXr56wmV6A7d/qRLG3KmHDg2RJ\nk0sDY2MeHOz2YNT2BByOibM8mlWlrEc8ifqmLJ/jQ/INKrE1CYSKUu3J8MIDDFo4\nTjERD5GMyFvJ67QFaHEMaXs3y+SpZVpm3DAecA3Ijmat3+ogW7BJsF4iO0KMoqdI\n9EmqdeSAGk0WKXteQjouDWSzgI+Mk3J0RBXmDfIpL2buDpIuZ2oQWDtQGgLMWqas\nOHyckmlDAgMBAAECggEAEhil4WSUk8tc2HSdPFRkCuDbR7HkIKkhuodX4wXOJhsZ\nAcyWjl1lo6uB1K1XGkuY2KliMWI/fjx3HmextY9KhATAiQshDH0weR00LYLpja7K\nYVvyiEp6O2U/oVzU0rkJtCa0TlOTttM2wof7OFgFjr2GZL1C+0sUm0iy4x/CobfD\nwbCCEuCn46cS7Yqcw59bR+3e44UPRJSWtvUe+Jwmp6qQus+7mZA7kTe1zAD+FFPx\ny/FYpPb7nCpO3/024oafzMUCxiyJepNzK6lFU5c9lVpzVjjLtjkTpwCWAzdLbn4I\nXuDLVn60A/LmijAzO/1Ma3JvqHFStajWQFkxbdAtYQKBgQDr2pjYp+Nso4qIWc9n\nfev2iwlfyT0kkByE0vrRfvAT217ddgOyRuuEVOw4tAz6UCqm3bOEpD3yghmkbq9H\nh82lg+f2/47unLUM7VpugsOBTaeIe9eJ5flG+08tKMsotDYDk2qtDBprUUPk9jwU\nFkHoA6WH75KM73YJGmQkyOGKYQKBgQC92adxfdCUqjbtbLIrmLfFG/Tu2WtNfyzM\nGzMFCy5MybMGoQ+KPL+FJ+Bd9GWQdbvR4F5Hc6Pvn90hwbAaFRv9ZHAXbU2+uVFX\n3dJDU8YNKwJc+hAGYrc87m9FH1IjLUJZTfS3p5pd/Ibj4hXBsCXyFErU8jVzOHxW\nsiZuetk+IwKBgQC9LmJbpo8tnSCJrkBG6yJSZ8PlKS36Hf5CLFkzoXZA9z1otjjQ\nz0Iqq1OvR/0A6zzLDBnq0zM9Sk33LzE5Vx0FHoD6BpNHojs3W0umSQ04smkneO6y\nld0Vqo8f0hDjXWnWBHEUzRiD7HNhPIGEOzYyPHqSRwBuO8WaF6ksOFVxAQKBgBIa\nM94degsC4/PlnmOLz1ILJWK09odQLgxUN5wugb6uqNRj/SBYRIbE058B08FfiIYt\nl6/GdgY+Pw6d8lW6V43kys9hC7242+m96/OhhEvzIumMqoSBWymDLrbvkpxqD16G\nkWQFpjF6B76o6xwp2KRpjO0bHz+aTjjSCdoU+qvzAoGAcCjThNK4A8+vm4NLvuIT\nfwkOcfMg53YRjk4AMJIZj5Rkd2cPmkG0m+/+s1qXhpbRUIeN9mX5JyxVTsBctula\ne8GUcLnm9ISdDps2oykTB+1f0S/BMqOJ1mWGhlLzTSY1m+WpEcPa9HGMGI02eDpI\nxDMZm4678qDyA+ToJniASDo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "devop-gcp-gmail-com@agile-planet-378101.iam.gserviceaccount.com",
+  "client_id": "105456842562187091656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/devop-gcp-gmail-com%40agile-planet-378101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

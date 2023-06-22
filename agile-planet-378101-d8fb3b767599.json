@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-planet-378101",
+  "private_key_id": "d8fb3b767599baa76e6d5b7db096d6701d8e357f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhzG27Tzs6pw6J\n7nodgmqM0Sq4fv5BwxdonIKMmbGBzd+HLKpA4iyw3k6ya3iCnbVljY3EDmy7z5W5\nJ5sxWN7XwXq4XzJABTy+zIjRWKvKtHJ2O0YCYraZoRFnxjBf82wM7Qll4GpMHfX9\nZMbkLyC15uzb3Eo3wRTpYB/nQfpLDGD+ipvJZB6YwNlQDSouFUq+3piq0qZnuJi8\n5q9KTb0it+prklHE8K2Y0KQusqfWsUiwkc3crNpo+iDWxFHEJOG+u+3i2Pj33ELw\ncihZrN16zxKMFhWf6G8+4tl4wJ0elv5lYkNZyx7ACjYSQNZaKMnh4+WOJXJPI7re\nmtH9wRz7AgMBAAECggEACeZQmU8WpbJVV4QhI9ISodc51u+abipY3blJmqh9DoKG\n3leoT0KbUFXZgBu+I4aOlsPnXJp/90FZVc4qu7XNxLUy5Yp8RYT1Q4LsLLbahqn1\nVWxb3Bbqh+nL6Dou53C2DWBccnRYX2X2NwSIGSZdJMcvHfnr4cM8C3oEwWWJzRMf\naw0j3wa6l8SknpetnHtGAz32Es7hi0LJHjVQ9eRFu5kWCqOrHM0a2GAJmk/tGV9S\nalTfhq6+61ahbKZjKoUqMavxTVB6saTydZNRq6/YdCBys//r44hIhrf3G7Zsnj9L\nITarM57ysV9A9gTLCISYQ76Zk33H1A4adL9cwHK24QKBgQD99tB01/3UxD3BK7Xl\nkCvwt9lFcD/8wBKSKZIS0Mv55Dvchrotp8De0mQmlrlXUsS6htUYe3r3gUOgdOru\nd9VmwPDY/yLg0FeCAGyqQydrXyM4anrwUxyCQ0vGudU4kSTIEz9LEtvKqCFwmYIc\nypx3Yi9J4WnfivkmwkO7dw/QvwKBgQDjm9AbKubMKWYS+6/erYNxNKPMF5AElCMU\n3GjC6l6iHLvRsKkPwivrRcBNJ3WBlISC2WCYyj5V8vqe+evvoZMhDLCQNDag0LZm\nbgWPSGXz860k7mjn7rJhQHJScqLmNxdUzjv/jp0JOZeL3LtODfpBXMM4iI7ZSOyV\nC22k248GxQKBgQDlzX5XHFL9Qg23S/wuG8UG7vVVlfrwlES5qZAaIoFQP6vDIs45\nHcCyX6JsIJrZX3XQas1Md/+PEpLFEMa8vgaGEjRdxpAi6aMlaYjqkBWNXOsb044n\nBK2ZWZep3OIJa5zixjfRkOD9giGwJ9fKgbQPevLbYXNR6gkFf2eWrGfNNQKBgDsU\nL5FNsnid6kvVHpJLMYoJ4tZP62b02KJKj7rAQO4NTUchdtCLUwEPqtmb+2k2Fqss\nJ2GhZUrD9f+b2Xzq0JjMhWv40ZEue5ncxv6pCSWoQ3IJnBtPnueVZdc2wEfHVvwB\nSBuOdf51/3sjQU8CW8npfRbIg2OtBROu0rfu8ZINAoGBALkh/+uf6LMXiOcKkXqA\nuIJsRr7t6hnNVu/Hha3G6hvSX+v8PWTQDBCrNCNI38PwQFn70kCgkKURdicqGTar\nMrANeIbTqlMg0U2+LVSEQWMQ0ZqnRrY7f8D49LaGLecf5WmDk5EFuLEbklETHB2h\nKvctkfyq+PAyINtJRcyzRLcD\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@agile-planet-378101.iam.gserviceaccount.com",
+  "client_id": "111733313225276035821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40agile-planet-378101.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
