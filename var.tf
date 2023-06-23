@@ -22,7 +22,7 @@ validation {
 
 }
 variable "devops" {
-
+type = string
 }
 
 
