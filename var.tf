@@ -21,6 +21,10 @@ validation {
 }
 
 }
+variable "devops" {
+
+}
+
 
 
 
